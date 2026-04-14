@@ -1,5 +1,8 @@
 @import "normalize", "fonts", "mixins", "media", "variables", "utils", "global";
 
+@import "blocks/field";
+@import "blocks/radios";
+@import "blocks/radio";
 @import "blocks/button";
 @import "blocks/grid";
 @import "blocks/burger-button";
@@ -19,3 +22,4 @@
 @import "blocks/pagination";
 @import "blocks/reviews";
 @import "blocks/review-card";
+@import "blocks/contact-us";
